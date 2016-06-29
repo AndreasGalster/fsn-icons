@@ -1,6 +1,6 @@
 {
   "name": "@andreasgalster/fsn-icons",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "fsn-icons is a set of basic shared styles, similar to bootstrap",
   "main": "fsn-icons.html",
   "scripts": {
