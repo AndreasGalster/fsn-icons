@@ -4,10 +4,6 @@ var $ = require('gulp-load-plugins')();
 
 
 gulp.task('default', function() {
-
-  gutil.log('hey bro');
-  gutil.log($);
-  gutil.log($.uglify);
   return gulp.src(['src/*.html'])
   // return gulp.src(['src/*.{js,html}'])
   //  .pipe($.sourcemaps.init())
